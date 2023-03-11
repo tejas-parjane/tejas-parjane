@@ -17,3 +17,4 @@ Email : tejasparjane7334@gmail.com
 - 💬 Ask me about Python, Machine Learning, SQL, Freelancing Opportunites, Data science
 - ⚡ About me : Intrested in AI | Data Science | ML
 -->
+
