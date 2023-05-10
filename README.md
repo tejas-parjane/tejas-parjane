@@ -8,7 +8,6 @@ My specialties - I'm an adaptable data analyst skilled in dashboarding interpret
 
 Email : tejasparjane7334@gmail.com
 
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas-parjane&show_icons=true)
 [![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas-parjane)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tejas-parjane/tejas-parjane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
