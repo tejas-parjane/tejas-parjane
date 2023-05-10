@@ -1,10 +1,9 @@
 ### Hi there 👋,I'm Tejas Parjane
+As a data analyst with a background in computer application (BCA), mathematics, statistics, programming, and business, I'm passionate about transforming data into actionable insights that drive business decisions. My expertise lies in data analytics, data visualization, statistics, SQL, Python (Pandas, NumPy, Seaborn, Matplotlib, Sklearn), machine learning, Tableau, Power BI, Sheets, Microsoft Office, Advanced Excel, My SQL, and Postgrey SQL.
 
-Data Analyst with a background in computer application (BCA), mathematics, statistics, programming, and business. I turn my fascination with numbers and art into a unique data-driven story. Fast learner and problem solver with sophisticated analytics and communication skills. 
-
-Data Analytics - Data Visualization - Statistics - SQL - Python (Pandas, NumPy, Seaborn, Matplotlib, Sklearn, ) Machine Learning - Tableau - Power BI - Sheets - Microsoft Office - Advanced Excel - My SQL - Postgrey SQL
-
-My specialties - I'm an adaptable data analyst skilled in dashboarding interpreting and analyzing data in Python, SQL, Excel, Power BI, and Tableau. Advanced Excel and PowerPoint, Analytical thinking, and decision-making.
+Specialties
+Adaptable data analyst skilled in dashboarding, interpreting and analyzing data in Python, SQL, Excel, Power BI, and Tableau
+Advanced Excel and PowerPoint, analytical thinking, and decision-making
 
 Email : tejasparjane7334@gmail.com
 
