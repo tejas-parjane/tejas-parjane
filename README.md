@@ -1,9 +1,9 @@
 ### Hi there 👋,I'm Tejas Parjane
-Results-driven data analyst with 1+ year of experience and a BCA degree obtained in 2021. Certified in IBM Data Analyst Professional and Data Science with Python, proficient in Python, SQL, Excel, Power-BI, and Tableau. Demonstrated expertise in independent data analysis projects during a period, showcasing a solid foundation in data analysis, visualization, and a basic understanding of machine learning. Possesses strong analytical skills and the ability to transform complex data into actionable insights for informed decision-making
+Results-driven data analyst with 1+ year of experience (BCA 2021). Currently pursuing an MBA in Data Science at Amity University (online). Seeking to leverage my data analysis expertise and business acumen to drive strategic decision-making and innovation. Proficient in Python, SQL, Excel, Power-BI, and Tableau, and possess a strong foundation in data analysis, visualization, and machine learning. Eager to contribute my skills and passion for data to a forward-thinking organization.
 
 My expertise lies in data analytics, data visualization, statistics, SQL, Python (Pandas, NumPy, Seaborn, Matplotlib, Sklearn), machine learning, Tableau, Power BI, Sheets, Microsoft Office, Advanced Excel, My SQL, and Postgrey SQL.
 
-Email : tejasparjane7334@gmail.com
+Email: tejasparjane7334@gmail.com
 <h1 align="center">Hi 👋, I'm Tejas Parjane</h1>
 <h3 align="center">Data Analyst</h3>
 
