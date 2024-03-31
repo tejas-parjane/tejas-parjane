@@ -6,7 +6,7 @@
   
  I'm passionate about sculpting intricate data models that harness the power of machine learning, ultimately shaping impactful experiences for users., and love meeting new people!
 
-[![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejas-parjane&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/tejas-parjane/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-parjane&layout=compact&theme=calm)](https://github.com/tejas-parjane/github-readme-stats)
 
 
