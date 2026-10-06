@@ -4,7 +4,22 @@
 [![Linkedin: Tejas Parjane](https://img.shields.io/badge/-tejas%20parjane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejas-parjane/)](https://www.linkedin.com/in/tejas-parjane/)
 [![Twitter: Tejas Parjane](https://img.shields.io/twitter/follow/tejas_parjane?style=social)](https://twitter.com/tejas_parjane)
 
-I build data products end to end: exploratory notebooks and ML models, the FastAPI services that productionise them, the dashboards that surface them, and the CI that keeps them honest.
+**Data Scientist → AI Engineer**
+
+I build **AI, ML, and data systems** that turn complex problems into practical, automated products.
+
+My work spans:
+- **AI & Agentic Systems** — LLM applications, AI agents, RAG, tool-using workflows
+- **Machine Learning** — predictive modeling, forecasting, experimentation, decision systems
+- **Data Engineering & Analytics** — Python, SQL, data pipelines, analytical automation
+- **AI Applications** — FastAPI, Streamlit, APIs, production-oriented ML/AI systems
+- **Open Source** — building and contributing to practical developer and AI tooling
+
+Currently focused on becoming a stronger **AI Engineer** by building systems from first principles — understanding not just how to use AI frameworks, but how the underlying systems work.
+
+**Tech:** Python · SQL · LLMs · RAG · Agentic AI · Scikit-learn · XGBoost · Pandas · FastAPI · Git · Docker
+
+[LinkedIn](https://www.linkedin.com/in/tejas-parjane/) · [Portfolio](https://savytics.com/)
 
 ---
 
