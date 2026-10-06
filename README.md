@@ -1,4 +1,4 @@
-## Hey! I'm Tejas Parjane. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Tejas Parjane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub Tejas Parjane](https://img.shields.io/github/followers/tejas-parjane?label=follow&style=social)](https://github.com/tejas-parjane)
 [![Linkedin: Tejas Parjane](https://img.shields.io/badge/-tejas%20parjane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejas-parjane/)](https://www.linkedin.com/in/tejas-parjane/)
@@ -19,7 +19,7 @@ Currently focused on becoming a stronger **AI Engineer** by building systems fro
 
 **Tech:** Python · SQL · LLMs · RAG · Agentic AI · Scikit-learn · XGBoost · Pandas · FastAPI · Git · Docker
 
-[LinkedIn](https://www.linkedin.com/in/tejas-parjane/) · [Portfolio](https://savytics.com/)
+[LinkedIn](https://www.linkedin.com/)
 
 ---
 
