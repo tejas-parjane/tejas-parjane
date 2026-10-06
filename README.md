@@ -76,9 +76,3 @@ I build data products end to end: exploratory notebooks and ML models, the FastA
 - **[business-intelligent-rag-agent](https://github.com/tejas-parjane/business-intelligent-rag-agent)** — evidence-first BI RAG agent using LangChain, FastAPI, governed SQL, citations and evaluation.
 - **[forecasting-engine](https://github.com/tejas-parjane/forecasting-engine)** — AI-powered forecasting & decision intelligence: validate, explore, backtest, forecast with uncertainty, explain and recommend from time-series data.
 - **[Agentic-AI-Application](https://github.com/tejas-parjane/Agentic-AI-Application)** — agentic AI experiments, including a financial AI analyst built with LLM tool-calling.
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-parjane&layout=compact&theme=calm)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas-parjane&show_icons=true&theme=calm)](https://github.com/tejas-parjane)
