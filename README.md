@@ -18,4 +18,4 @@ Python · SQL · model evaluation · forecasting · FastAPI · RAG · tests · D
 
 Analytics professional; independent ML/AI project work since April 2026. Open to Associate/Applied Data Scientist and project-level AI engineering roles.
 
-[LinkedIn](https://www.linkedin.com/in/tejas-parjane/) · [Portfolio](https://tejasparjane.in)
+[LinkedIn](https://www.linkedin.com/in/tejas-parjane/) · [Portfolio](https://tejas-parjane.github.io/)
